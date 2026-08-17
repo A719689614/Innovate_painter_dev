@@ -1,5 +1,6 @@
 # Innovate_Painter无限创意画布V1.0.0
 <img width="1928" height="1048" alt="QQ截图20260817150203" src="https://github.com/user-attachments/assets/956b4756-787a-44bf-8543-d7bedf3df707" />
+
   1. 支持ComfyUI原生无限画布绘图功能
   2. 支持ComfUI原生魔方绘图功能
   3. 支持Qwen-image、Klein9B、FLUXF.1、SDXL、SD1.5、一键抠图、水印去除、智能扩图、一键精修、超清修复、单图编辑、双图编辑、局部重绘等原生功能
