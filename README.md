@@ -47,3 +47,15 @@
 <img width="1928" height="1048" alt="QQ截图20260817150045" src="https://github.com/user-attachments/assets/a071ba81-5c4c-4810-8ed4-a380e48df637" />
 <img width="1928" height="1048" alt="QQ截图20260817150058" src="https://github.com/user-attachments/assets/7f5a90e4-05f2-4da3-a01c-03969672ae86" />
 
+# 九、创意魔方功能预览
+<img width="1928" height="1048" alt="QQ截图20260817145931" src="https://github.com/user-attachments/assets/0ce6db9c-621e-41d4-bb2f-baef987d6973" />
+<img width="1928" height="1048" alt="QQ截图20260817150026" src="https://github.com/user-attachments/assets/dd5e9d8a-6c7e-4481-8057-a6fb8831a896" />
+
+# 十、提示词管理功能预览
+<img width="1928" height="1048" alt="QQ截图20260817150116" src="https://github.com/user-attachments/assets/d1bbeb07-996d-4d68-9463-3f93ad7c1234" />
+
+# 十一、资产配置功能预览
+<img width="1928" height="1048" alt="QQ截图20260817145845" src="https://github.com/user-attachments/assets/46e8a861-5153-4ddf-ac3c-9f7391d02486" />
+<img width="1928" height="1048" alt="QQ截图20260817145856" src="https://github.com/user-attachments/assets/026515a1-d9da-49ec-9a03-20dad335fd4b" />
+<img width="1928" height="1048" alt="QQ截图20260817145902" src="https://github.com/user-attachments/assets/70a96561-b1cb-4d51-a977-45897785ef06" />
+
