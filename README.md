@@ -29,3 +29,21 @@
 
 # 四、无限画布创意词汇功能预览
 <img width="1928" height="1048" alt="QQ截图20260817144208" src="https://github.com/user-attachments/assets/ece1a3ed-6777-469f-9c1d-e2c41e67e0c8" />
+
+# 五、无限画布批量文生图功能功能预览
+<img width="1928" height="1048" alt="QQ截图20260817144407" src="https://github.com/user-attachments/assets/007d5cbd-b964-4738-80df-be349612a951" />
+<img width="1928" height="1048" alt="QQ截图20260817144744" src="https://github.com/user-attachments/assets/6300d6c1-1779-4856-920d-ea38a6db608c" />
+
+# 六、无限画布AI音频生成功能预览
+<img width="1928" height="1048" alt="QQ截图20260817145220" src="https://github.com/user-attachments/assets/a427ae09-db0f-4a70-bf8b-c4226e2f56b1" />
+
+# 七、无限画布图像功能预览
+<img width="1928" height="1048" alt="QQ截图20260817145540" src="https://github.com/user-attachments/assets/96c47598-399b-476d-bfe0-543ec844e2cc" />
+<img width="1928" height="1048" alt="QQ截图20260817145513" src="https://github.com/user-attachments/assets/4ce45c4a-2e6f-4d0b-b49a-58816964571d" />
+<img width="1928" height="1048" alt="QQ截图20260817145518" src="https://github.com/user-attachments/assets/fa52ec60-9ce8-4cb4-a92c-636db9f77efb" />
+
+# 八、无限画布历史记录管理和本地相册管理
+<img width="1928" height="1048" alt="QQ截图20260817150037" src="https://github.com/user-attachments/assets/a45bfaff-ba73-4bae-9685-d03f25991a49" />
+<img width="1928" height="1048" alt="QQ截图20260817150045" src="https://github.com/user-attachments/assets/a071ba81-5c4c-4810-8ed4-a380e48df637" />
+<img width="1928" height="1048" alt="QQ截图20260817150058" src="https://github.com/user-attachments/assets/7f5a90e4-05f2-4da3-a01c-03969672ae86" />
+
