@@ -1,3 +1,12 @@
+# 部分系统适配组件下载[请参考工作流缺失决定安装]
+  1. https://github.com/A719689614/ComfyUI_AC_FUN-V1.0
+  2. https://github.com/A719689614/ComfyUI-AC_FUNV2.0
+  3. https://github.com/A719689614/ComfyUI-By-AC_FUNV4.0
+  4. https://github.com/A719689614/ComfyUI-By-AC_FUNV5.0
+  5. https://github.com/A719689614/ComfyUI-By-AC_FUNV6.0
+  6. https://github.com/A719689614/ComfyUI_AC_FUNV8Beta1
+  7. https://github.com/A719689614/ComfyUI-By-AC_FUN_DE
+
 # Innovate_Painter无限创意画布V1.0.0
 <img width="1928" height="1048" alt="QQ截图20260817150203" src="https://github.com/user-attachments/assets/956b4756-787a-44bf-8543-d7bedf3df707" />
 
