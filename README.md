@@ -7,6 +7,16 @@
   6. https://github.com/A719689614/ComfyUI_AC_FUNV8Beta1
   7. https://github.com/A719689614/ComfyUI-By-AC_FUN_DE
 
+# Innnovate_Painter无线创意画布V1.1.12更新
+  1. 修复组件成组残留BUG,增加快捷键[Ctrl + G]，快速成组同ComfyUI相同操作
+  2. 增加新功能组件对齐功能
+  3. 新增语音克隆功能，支持本地部署[QwenTT3 跑通即可！]
+
+## V1.1.12功能预览
+<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/80d9c215-6d6b-4cc7-89d6-56f780af74ca" />
+<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/00768307-3134-4559-baae-ec194023c1b2" />
+<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/f9f85339-c07c-4890-b8d0-edad60c9c57b" />
+
 # Innovate_Painter无限创意画布V1.0.0
 <img width="1928" height="1048" alt="QQ截图20260817150203" src="https://github.com/user-attachments/assets/956b4756-787a-44bf-8543-d7bedf3df707" />
 
