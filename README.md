@@ -12,7 +12,8 @@
   2. 修复图库的非文件里管理的图片入库BUG
   3. 新增魔方自定义工作流：再次生成、重新编辑。自定义支持最多生成4张图[文生图状态下]
   4. 修复其他已知BUG
-  5. 新增120租图文提示词
+  5. 新增120组图文提示词--灵感视界扩展[解压到安装目录下的Inspiratio目录]
+
 https://github.com/A719689614/Innovate_painter_dev/releases/tag/Inspiration-for-innovate
 
 ## V1.3.30功能预览
