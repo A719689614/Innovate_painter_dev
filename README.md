@@ -7,6 +7,10 @@
   6. https://github.com/A719689614/ComfyUI_AC_FUNV8Beta1
   7. https://github.com/A719689614/ComfyUI-By-AC_FUN_DE
 
+# Innovate_Painter新增创意图库 2026-09-16
+  * Inspiration-04.rar
+https://github.com/A719689614/Innovate_painter_dev/releases/tag/Inspiration-for-innovate
+
 # Innovate_Painter无限创意画布V1.3.30更新
   1. 新增灵感视界[首页置顶]，方便查看提示词
   2. 修复图库的非文件里管理的图片入库BUG
