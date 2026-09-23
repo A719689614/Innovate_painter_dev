@@ -16,6 +16,8 @@
  6. 支持拖拽视频进入画布
  7. 增加百度翻译组件和词汇处理组件
 
+开发者提示:自定义工作流后可以增加的字段[al],[qn],[本地]，例如：SD1.5工作流[本地]，用这个方式命名工作流!!!
+
 # 新版本预览
 <img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/2d06cd04-5117-4135-9ab2-5d4841ebdb21" />
 <img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/4e6771f6-d31b-4994-ab48-478ed4451d42" />
