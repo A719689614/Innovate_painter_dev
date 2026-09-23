@@ -7,6 +7,21 @@
   6. https://github.com/A719689614/ComfyUI_AC_FUNV8Beta1
   7. https://github.com/A719689614/ComfyUI-By-AC_FUN_DE
 
+# Innovate_Painter无限创意画布V1.3.35更新
+ 1. 支持视频生成和自定义工作流视频生成
+ 2. UI界面功能细微调整，将顶部历史记录移动至左侧栏，增加一键切换本地和远程服务的按钮
+ 3. 增加UI组件动画过渡效果
+ 4. 增加自定义工作流加入画布的预览图功能
+ 5. 所有组件兼容图像和视频组件
+ 6. 支持拖拽视频进入画布
+ 7. 增加百度翻译组件和词汇处理组件
+
+# 新版本预览
+<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/2d06cd04-5117-4135-9ab2-5d4841ebdb21" />
+<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/4e6771f6-d31b-4994-ab48-478ed4451d42" />
+<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/d9ddb7c7-7882-4fe5-a10a-bfd302497819" />
+<img width="1600" height="896" alt="image" src="https://github.com/user-attachments/assets/2378384c-4ee5-49b2-be1f-c93ccdb781d5" />
+
 # Innovate_Painter新增创意图库 2026-09-16
   * Inspiration-04.rar
 
