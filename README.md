@@ -7,7 +7,7 @@
   6. https://github.com/A719689614/ComfyUI_AC_FUNV8Beta1
   7. https://github.com/A719689614/ComfyUI-By-AC_FUN_DE
 
-# Innovate_Painter无限创意画布V1.3.38更新
+# Innovate_Painter无限创意画布V1.3.38更新[预更新]
   1. 修复连接线动画BUG
   2. 增加节点动画控制
 
