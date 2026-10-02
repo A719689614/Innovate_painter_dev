@@ -12,6 +12,8 @@ https://my.feishu.cn/wiki/RZJ0wlbCyiktlMkQWEpcYP2WnDb
 # Innovate_Painter无限创意画布V1.3.38更新
   1. 修复连接线动画BUG
   2. 增加节点动画控制
+  3. 增加飞书云文档
+  4. 增加工作流检索和自定义模型检索功能
 
 # Innovate_Painter无限创意画布V1.3.36更新
  1. 支持视频生成和自定义工作流视频生成
