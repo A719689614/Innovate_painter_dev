@@ -21,6 +21,7 @@ https://my.feishu.cn/wiki/RZJ0wlbCyiktlMkQWEpcYP2WnDb
   2. 增加节点动画控制
   3. 增加飞书云文档
   4. 增加工作流检索和自定义模型检索功能
+  5. AC_FUNV6组件无法匹配新的前端功能，请立即更新到最新版组件
 
 # Innovate_Painter无限创意画布V1.3.36更新
  1. 支持视频生成和自定义工作流视频生成
