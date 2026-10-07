@@ -3,7 +3,7 @@
   2. https://github.com/A719689614/ComfyUI-AC_FUNV2.0
   3. https://github.com/A719689614/ComfyUI-By-AC_FUNV4.0
   4. https://github.com/A719689614/ComfyUI-By-AC_FUNV5.0
-  5. https://github.com/A719689614/ComfyUI-By-AC_FUNV6.0
+  5. https://github.com/A719689614/ComfyUI-By-AC_FUNV6.0  [请立即更新到最新版]
   6. https://github.com/A719689614/ComfyUI_AC_FUNV8Beta1
   7. https://github.com/A719689614/ComfyUI-By-AC_FUN_DE
 # 无限画布飞书云文档
