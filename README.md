@@ -9,6 +9,13 @@
 # 无限画布飞书云文档
 https://my.feishu.cn/wiki/RZJ0wlbCyiktlMkQWEpcYP2WnDb
 
+# Innovate_Painter无限创意画布V1.3.39更新[Beta]
+  1. 修复任务中心BUG
+  2. 增加空间相机组件
+  3. 增加批量图像和视频拖拽进入画布功能
+
+<img width="1928" height="1048" alt="image" src="https://github.com/user-attachments/assets/248df831-ee93-4c00-a44c-554ddd9f531d" />
+
 # Innovate_Painter无限创意画布V1.3.38更新
   1. 修复连接线动画BUG
   2. 增加节点动画控制
