@@ -9,7 +9,7 @@
 # 无限画布飞书云文档
 https://my.feishu.cn/wiki/RZJ0wlbCyiktlMkQWEpcYP2WnDb
 
-# Innovate_Painter无限创意画布V1.7.73Beta发布
+# Innovate_Painter无限创意画布V1.7.75正式更新
   1. 简化UI界面内容
   2. 增加Cliya智能体智能助手
   3. 增加本地词汇推理功能[ComfyUI词汇反推]
