@@ -22,6 +22,9 @@ https://my.feishu.cn/wiki/RZJ0wlbCyiktlMkQWEpcYP2WnDb
   10. 新增Agent服务器功能、包含服务、查询、删除等。
   11. 修复系统已知BUG
 
+<img width="1616" height="904" alt="image" src="https://github.com/user-attachments/assets/d7f01b00-9b4e-4e11-8212-2458b4cad7d3" />
+<img width="1616" height="904" alt="image" src="https://github.com/user-attachments/assets/147342c6-be75-4d94-8bae-ddfe71073430" />
+
 # Innovate_Painter无限创意画布V1.3.39更新
   1. 修复任务中心BUG
   2. 增加空间相机组件
